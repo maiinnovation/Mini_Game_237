@@ -1,0 +1,40 @@
+{
+  "round_number": 7,
+  "boss": {
+    "name": "Сфинктерион",
+    "hp": 0,
+    "max_hp": 350,
+    "mp": 160,
+    "max_mp": 160
+  },
+  "party": [
+    {
+      "name": "111",
+      "class": "Warrior",
+      "hp": 146.2,
+      "max_hp": 175,
+      "mp": 30,
+      "max_mp": 40,
+      "level": 5
+    },
+    {
+      "name": "222",
+      "class": "Mage",
+      "hp": 48.0,
+      "max_hp": 100,
+      "mp": 115,
+      "max_mp": 130,
+      "level": 5
+    },
+    {
+      "name": "333",
+      "class": "Healer",
+      "hp": 112.0,
+      "max_hp": 130,
+      "mp": 100,
+      "max_mp": 100,
+      "level": 5
+    }
+  ],
+  "timestamp": "2025-09-23T15:11:49.507993"
+}
